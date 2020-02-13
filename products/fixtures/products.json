@@ -1,0 +1,58 @@
+[
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "title": "suppliment",
+        "slug": "sup",
+        "description": "New immunity suppliment.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et convallis nunc. Nulla sed auctor sapien. In venenatis mauris ante, eu euismod elit lobortis eu. Vivamus fringilla cursus magna sed tempus. Nulla eu dui auctor, aliquam enim ac, cursus libero. Vivamus consectetur ex quis mi luctus, eu commodo metus hendrerit. Ut laoreet convallis condimentum.\r\n\r\nVivamus gravida diam ultricies, pharetra sapien ornare, viverra nunc. Mauris egestas in nibh ut lobortis. Aenean in pellentesque odio. Morbi interdum dui magna, vel varius nisl tincidunt eu. Quisque luctus hendrerit congue. Suspendisse tincidunt lacus at justo tristique, vel blandit leo blandit. Maecenas placerat sem eget tellus aliquam, et vulputate leo condimentum. Etiam suscipit tellus ipsum, id laoreet purus vulputate nec. Etiam faucibus lacinia lobortis. Vivamus facilisis tellus tempus risus ultrices vulputate. Curabitur vulputate purus eu ex convallis molestie. Nulla lacinia nibh eget augue ornare egestas. Nulla molestie bibendum orci, vitae pharetra tortor euismod ut. Nam vitae ex elit. Nunc nec rutrum magna.\r\n\r\nMaecenas a vulputate arcu. Nullam in lobortis libero. Integer dui libero, condimentum at tempus pharetra, mattis ut justo. Donec commodo leo urna, quis sagittis ex porta vel. Suspendisse at feugiat metus. Donec tincidunt varius libero, eu mollis ante sollicitudin non. Fusce porttitor tincidunt massa, a sodales lectus fringilla in. Vestibulum finibus velit id sem commodo efficitur. Duis faucibus lorem sit amet auctor consequat. In eget ornare lacus. Ut eu facilisis enim, sit amet vulputate ex. Vestibulum aliquet porttitor aliquet. Aenean sagittis, quam ut elementum molestie, ex erat egestas lectus, gravida vestibulum magna eros quis sem. Curabitur eget dolor malesuada, lobortis nisl et, sodales tellus.\r\n\r\nMauris odio ante, pellentesque in ipsum quis, mattis dignissim odio. Sed eu tempor lacus. Praesent ac dolor vehicula est mattis hendrerit. Fusce imperdiet lorem auctor, pretium orci non, bibendum elit. Aliquam orci enim, tincidunt vitae posuere ac, bibendum eu orci. Integer ex massa, sollicitudin et tempus in, efficitur at turpis. Integer quis libero tellus. Morbi at ornare erat, eget semper mi. Vestibulum ullamcorper massa in imperdiet ullamcorper. Vivamus pulvinar eleifend nibh, id tincidunt nunc lacinia ac. Praesent ante urna, consequat ac nunc sit amet, accumsan efficitur augue. Donec congue blandit volutpat. Curabitur vestibulum gravida massa, id gravida elit maximus nec. Vestibulum venenatis quis justo sed laoreet.\r\n\r\nVestibulum vel tellus velit. Integer in mi a sem pharetra dapibus. Donec pharetra nisl ut tristique interdum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ex risus, egestas tincidunt leo tempor, porttitor sollicitudin mauris. Morbi cursus eros nec est convallis, eget scelerisque sem ultrices. Curabitur ultricies, justo ut placerat imperdiet, sapien diam tempor lacus, a feugiat nunc dui nec nisi. Donec imperdiet libero ac erat vulputate ultricies. Ut ex ante, condimentum nec mi in, fermentum luctus orci. Vestibulum egestas dui purus, in venenatis enim hendrerit sit amet. Praesent pellentesque urna turpis. Nullam eget nisl enim. Pellentesque a nulla id mi imperdiet rhoncus quis euismod augue.",
+        "price": "39.99",
+        "image": "products/3578661103/3578661103.jpeg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2019-10-19T10:28:37.112Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+        "title": "Tablet Napa Extra, Generic Name: Caffeine 65 mg + Paracetamol 500 mg",
+        "slug": "medicine-sdq9",
+        "description": "This is another example.What is Lorem Ipsum?\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\nWhy do we use it?\r\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\r\n\r\n\r\nWhere does it come from?\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n\r\nWhere can I get some?\r\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+        "price": "39.99",
+        "image": "products/3407169675/3407169675.jpg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2019-10-19T10:28:37.112Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+        "title": "Sergil 20mg(Capsul)",
+        "slug": "sergil-20mgcapsul",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus gravida egestas velit vel auctor. Fusce id elementum magna. Praesent ornare tincidunt aliquam. Donec tristique, est ac vehicula suscipit, nunc purus dictum urna, ac porta ipsum nibh eu enim. Maecenas luctus, ligula ac mollis rutrum, urna ligula gravida neque, a semper lorem purus at lectus. Sed libero justo, imperdiet ac rhoncus eget, tempor ac neque. Aenean fringilla, lacus nec rhoncus sollicitudin, justo massa vehicula dolor, non porttitor augue quam quis urna. Donec urna urna, ultricies eu iaculis a, finibus ac sapien. Vivamus massa turpis, finibus vitae dolor eget, rutrum gravida risus. In quis interdum turpis, sit amet imperdiet lorem. Praesent maximus ornare accumsan. Fusce interdum, purus in tincidunt sagittis, eros tellus tincidunt dolor, in consectetur dui odio vel odio. Cras vel orci a sem aliquam tempus sed eu dolor.",
+        "price": "39.99",
+        "image": "products/1940959683/1940959683.jpg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2019-12-20T08:25:19.563Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+        "title": "Centrum Men(200 COUNT) Multivitamin",
+        "slug": "centrum-men200-count-multivitamin",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus gravida egestas velit vel auctor. Fusce id elementum magna. Praesent ornare tincidunt aliquam. Donec tristique, est ac vehicula suscipit, nunc purus dictum urna, ac porta ipsum nibh eu enim. Maecenas luctus, ligula ac mollis rutrum, urna ligula gravida neque, a semper lorem purus at lectus. Sed libero justo, imperdiet ac rhoncus eget, tempor ac neque. Aenean fringilla, lacus nec rhoncus sollicitudin, justo massa vehicula dolor, non porttitor augue quam quis urna. Donec urna urna, ultricies eu iaculis a, finibus ac sapien. Vivamus massa turpis, finibus vitae dolor eget, rutrum gravida risus. In quis interdum turpis, sit amet imperdiet lorem. Praesent maximus ornare accumsan. Fusce interdum, purus in tincidunt sagittis, eros tellus tincidunt dolor, in consectetur dui odio vel odio. Cras vel orci a sem aliquam tempus sed eu dolor.",
+        "price": "39.99",
+        "image": "products/1147027583/1147027583.jpg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2019-12-20T08:26:28.055Z"
+    }
+}
+]
